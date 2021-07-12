@@ -1,0 +1,22 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Cupcake"
+provides-nominal:
+- "7CupcakeAAV"
+provides-member:
+- ["7CupcakeAAV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Cupcake"
+- "StringLiteralType"
+depends-member:
+- ["7CupcakeAAV", "init"]
+- ["7CupcakeAAV", "text"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+depends-nominal:
+- "7CupcakeAAV"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/mac/Documents/test-work/Cupcake/.build/x86_64-apple-macosx/debug/Cupcake.build/module.modulemap"
+interface-hash: "d6854c474ef52eedc14af250f714b897"

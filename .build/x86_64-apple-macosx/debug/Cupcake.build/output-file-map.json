@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Documents/test-work/Cupcake/.build/x86_64-apple-macosx/debug/Cupcake.build/master.swiftdeps"
+  },
+  "/Users/mac/Documents/test-work/Cupcake/Sources/Cupcake/Cupcake.swift": {
+    "dependencies": "/Users/mac/Documents/test-work/Cupcake/.build/x86_64-apple-macosx/debug/Cupcake.build/Cupcake.d",
+    "object": "/Users/mac/Documents/test-work/Cupcake/.build/x86_64-apple-macosx/debug/Cupcake.build/Cupcake.swift.o",
+    "swiftmodule": "/Users/mac/Documents/test-work/Cupcake/.build/x86_64-apple-macosx/debug/Cupcake.build/Cupcake~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/test-work/Cupcake/.build/x86_64-apple-macosx/debug/Cupcake.build/Cupcake.swiftdeps"
+  }
+}

@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "f0214582b9acfffc9715c12095172214"
+build_time: [1626081898, 165455000]
+inputs:
+  "/Users/mac/Documents/test-work/Cupcake/Sources/Cupcake/Cupcake.swift": [1626081883, 483019402]

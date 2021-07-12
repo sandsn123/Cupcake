@@ -1,0 +1,4 @@
+module Cupcake {
+    header "/Users/mac/Documents/test-work/Cupcake/.build/x86_64-apple-macosx/debug/Cupcake.build/Cupcake-Swift.h"
+    requires objc
+}

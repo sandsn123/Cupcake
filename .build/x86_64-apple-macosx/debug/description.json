@@ -1,0 +1,19 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "\/Users\/mac\/Documents\/test-work\/Cupcake\/.build\/x86_64-apple-macosx\/debug\/CupcakePackageTests.xctest\/Contents\/MacOS\/CupcakePackageTests",
+      "packageName" : "Cupcake",
+      "productName" : "CupcakePackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftTargetMap" : {
+    "C.Cupcake-debug.module" : "Cupcake",
+    "C.CupcakeTests-debug.module" : "CupcakeTests"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}
